@@ -13,8 +13,7 @@
     <img align="center" height="30" width="40" alt="python-icon" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
     <img align="center" height="30" width="40" alt="sqlite-icon"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    <img align="center" height="30" width="40" alt="flask-icon"
+      src="flask.svg">
    </div>
     
   
