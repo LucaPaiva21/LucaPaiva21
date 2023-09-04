@@ -19,7 +19,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.lucapaiva@hotmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="outlook.svg">
     </a>
     <a href = "https://www.linkedin.com/in/leandro-luca-55b950284/">
       <img width="25" src="linkedin.svg">
@@ -30,4 +30,6 @@
     <a href = "https://www.instagram.com/lucapaivamarkenting/">
       <img width="25" src="instagram.png">
     </a>
+    <a href = "https://www.instagram.com/lucapaivamarkenting/">
+      <img width="25" src="instagram.png">
 </div>
