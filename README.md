@@ -24,12 +24,15 @@
     <a href = "https://www.linkedin.com/in/leandro-luca-55b950284/">
       <img width="25" src="linkedin.svg">
     </a>
+    <a href = "https://www.instagram.com/lucapaivamarkenting/">
+      <img width="25" src="instagram.png">
+    </a>
     <a href = "https://www.youtube.com/@MundoDoShen">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/lucapaivamarkenting/">
-      <img width="25" src="instagram.png">
-    </a>
-    <a href = "https://www.instagram.com/lucapaivamarkenting/">
-      <img width="25" src="instagram.png">
+    <a href = "https://discord.gg/zYwHy9Pq">
+      <img width="25" src="discord.svg">
 </div>
+
+  
+![Snake animation](https://github.com/LucaPaiva21/LucaPaiva21/blob/main/github-contribution-grid-snake.svg)
