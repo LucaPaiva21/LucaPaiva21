@@ -34,5 +34,5 @@
       <img width="25" src="discord.svg">
 </div>
 
-  
+      
 ![Snake animation](https://github.com/LucaPaiva21/LucaPaiva21/blob/output/github-contribution-grid-snake.svg)
